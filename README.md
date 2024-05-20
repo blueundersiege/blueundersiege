@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Total Viewers:</h2>
+<h3 align="left">Total Viewers:</h3>
 
 ###
 
